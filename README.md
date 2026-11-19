@@ -60,7 +60,7 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 <tr>
 <td width="50%" align="center">
 <a href="DEPOT_SWADE_FR_A_REMPLACER"><img src="images/vignettes/CONTRIB-trad_swade.webp" alt="Traduction française Deadlands SwaDE" width="100%"></a><br>
-<sub>Participation à la traduction française non officielle de Deadlands pour Savage Worlds Adventure Edition · <a href="DEPOT_SWADE_FR_A_REMPLACER">dépôt</a></sub>
+<sub>Participation à la traduction française non officielle de Deadlands pour Savage Worlds Adventure Edition · <a href="https://www.uberwald.me/gitea/public/swade-fr-content/">dépôt</a></sub>
 </td>
 <td width="50%"></td>
 </tr>
