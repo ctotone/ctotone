@@ -3,7 +3,7 @@ C'est ici que se concentre l'essentiel de mes projets de développement : module
 
 Mon objectif reste le même : réduire les manipulations inutiles, soigner l'interface et laisser davantage de place aux joueurs, à l'ambiance et à la narration.
 
-##🧩 Modules
+## 🧩 Modules
 <table>
 <tr>
 <td width="50%" align="center">
@@ -32,7 +32,7 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 </tr>
 </table>
 
-##📜 Systèmes de jeu
+## 📜 Systèmes de jeu
 <table>
 <tr>
 <td width="50%" align="center">
@@ -50,7 +50,7 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 </tr>
 </table>
 
-##🤝 Contribution
+## 🤝 Contribution
 <table>
 <tr>
 <td width="50%" align="center">
