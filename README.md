@@ -2,7 +2,8 @@
 C'est ici que se concentre l'essentiel de mes projets de développement : modules, outils et systèmes de jeu pensés pour améliorer l'expérience de jeu sur Foundry Virtual Tabletop.
 
 Mon objectif reste le même : réduire les manipulations inutiles, soigner l'interface et laisser davantage de place aux joueurs, à l'ambiance et à la narration.
-🧩 Modules
+
+##🧩 Modules
 <table>
 <tr>
 <td width="50%" align="center">
@@ -29,7 +30,9 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 <sub>Copier rapidement l'UUID des éléments Foundry directement depuis leur menu contextuel · <a href="https://github.com/ctotone/uuid-copier">GitHub</a></sub>
 </td>
 </tr>
-</table>📜 Systèmes de jeu
+</table>
+
+##📜 Systèmes de jeu
 <table>
 <tr>
 <td width="50%" align="center">
@@ -45,7 +48,9 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 <sub>Un système de jeu complet en bêta : personnages, compétences, combat, magie, progression et activités longues · <a href="https://github.com/ctotone/BETA-TEST-Arkhanval">Bêta / GitHub</a></sub>
 </td><td width="50%"></td>
 </tr>
-</table>🤝 Contribution
+</table>
+
+##🤝 Contribution
 <table>
 <tr>
 <td width="50%" align="center">
