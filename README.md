@@ -12,9 +12,7 @@ Je conçois des **outils, modules et systèmes pour le jeu de rôle**, principal
   <img src="images/banniere/BANNIERE-foundry.webp" alt="Foundry VTT" width="100%">
 </p>
 
-C'est ici que se concentre l'essentiel de mes projets de développement : modules, outils et systèmes de jeu pensés pour améliorer l'expérience de jeu sur Foundry Virtual Tabletop.
-
-Mon objectif reste le même : réduire les manipulations inutiles, soigner l'interface et laisser davantage de place aux joueurs, à l'ambiance et à la narration.
+C'est ici que se concentre l'essentiel de mes projets de développement pour **Foundry VTT** : systèmes, modules et outils conçus pour fluidifier la partie sans sacrifier l'interface ni l'immersion.
 
 ## 📜 Systèmes de jeu
 
@@ -27,17 +25,15 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 
 <td width="50%" align="center">
 <a href="https://github.com/ctotone/interface-ga"><img src="images/vignettes/SYSTEME-Interface.webp" alt="Système Interface" width="100%"></a><br>
-<sub>Un système D100 générique, léger et orienté narration pour Foundry VTT v14 · <a href="https://github.com/ctotone/interface-ga">GitHub</a></sub>
+<sub>Un système homebrew D100 générique, léger et orienté narration pour Foundry VTT v14 · <a href="https://github.com/ctotone/interface-ga">GitHub</a></sub>
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/ctotone/BETA-TEST-Arkhanval"><img src="images/vignettes/SYSTEME-arkhanval.webp" alt="Arkhanval" width="100%"></a><br>
+<td colspan="2" align="center">
+<a href="https://github.com/ctotone/BETA-TEST-Arkhanval"><img src="images/vignettes/SYSTEME-arkhanval.webp" alt="Arkhanval" width="50%"></a><br>
 <sub>Un système de jeu complet en bêta : personnages, compétences, combat, magie, progression et activités longues · <a href="https://github.com/ctotone/BETA-TEST-Arkhanval">Bêta / GitHub</a></sub>
 </td>
-
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -75,7 +71,7 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 </td>
 
 <td width="50%" align="center">
-<a href="https://foundryvtt.com/packages/uuid-copier"><img src="images/vignettes/MODULE-uuid_copier.webp" alt="Evilbram UUiD Copier" width="100%"></a><br>
+<a href="https://foundryvtt.com/packages/uuid-copier"><img src="images/vignettes/MODULE-uuid_copier.webp" alt="Evilbram UUID Copier" width="100%"></a><br>
 <sub>Copier rapidement l'UUID des éléments Foundry directement depuis leur menu contextuel · <a href="https://github.com/ctotone/uuid-copier">GitHub</a></sub>
 </td>
 </tr>
@@ -85,12 +81,10 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
 
 <table>
 <tr>
-<td width="50%" align="center">
-<a href="https://www.uberwald.me/gitea/public/swade-fr-content/"><img src="images/vignettes/CONTRIB-trad_swade.webp" alt="Traduction française Deadlands SwaDE" width="100%"></a><br>
+<td align="center">
+<a href="https://www.uberwald.me/gitea/public/swade-fr-content/"><img src="images/vignettes/CONTRIB-trad_swade.webp" alt="Traduction française Deadlands SwaDE" width="50%"></a><br>
 <sub>Participation à la traduction française non officielle de Deadlands pour Savage Worlds Adventure Edition · <a href="https://www.uberwald.me/gitea/public/swade-fr-content/">dépôt</a></sub>
 </td>
-
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -104,63 +98,61 @@ Mon objectif reste le même : réduire les manipulations inutiles, soigner l'int
   <img src="images/banniere/BANNIERE-roll20.webp" alt="Roll20" width="100%">
 </p>
 
-Avant Foundry — et encore aujourd'hui pour certains projets — je crée également des **fiches de personnage, interfaces et adaptations personnalisées pour Roll20**.
-
-L'objectif reste le même : proposer des outils agréables à utiliser, visuellement cohérents avec le jeu qu'ils accompagnent, et limiter autant que possible les manipulations qui coupent le rythme de la partie.
+Je crée également des **fiches de personnage et interfaces personnalisées pour Roll20**, pensées pour rester fidèles à l'identité visuelle de chaque jeu tout en rendant leur utilisation aussi fluide que possible.
 
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Cabinet%20des%20murmures"><img src="images/vignettes/ROLL20-murmures.webp" alt="Cabinet des Murmures — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Cabinet des Murmures · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Cabinet%20des%20murmures">GitHub</a></sub>
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Cabinet%20des%20Murmures"><img src="images/vignettes/ROLL20-murmures.webp" alt="Cabinet des Murmures — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Cabinet des Murmures · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Cabinet%20des%20Murmures">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Dedales"><img src="images/vignettes/ROLL20-dedales.webp" alt="Dédales — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Dédales · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Dedales">GitHub</a></sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Dirty"><img src="images/vignettes/ROLL20-dirtysystem.webp" alt="Dirty — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Dirty · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Dirty">GitHub</a></sub>
-</td>
-
-<td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Into%20the%20Odd"><img src="images/vignettes/ROLL20-intotheodd.webp" alt="Into the Odd — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Into the Odd · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Into%20the%20Odd">GitHub</a></sub>
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dedales"><img src="images/vignettes/ROLL20-dedales.webp" alt="Dédales — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Dédales · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dedales">dépôt Roll20</a></sub>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Notre%20tombeau"><img src="images/vignettes/ROLL20-notretombeau.webp" alt="Notre Tombeau — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Notre Tombeau · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Notre%20tombeau">GitHub</a></sub>
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dirty%20System"><img src="images/vignettes/ROLL20-dirtysystem.webp" alt="Dirty — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Dirty · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dirty%20System">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Patient13"><img src="images/vignettes/ROLL20-patient13.webp" alt="Patient 13 — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Patient 13 · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Patient13">GitHub</a></sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Ten%20candles"><img src="images/vignettes/ROLL20-10candles.webp" alt="Ten Candles — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Ten Candles · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Ten%20candles">GitHub</a></sub>
-</td>
-
-<td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Thanatos"><img src="images/vignettes/ROLL20-thanatos.webp" alt="Thanatos — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Thanatos · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Thanatos">GitHub</a></sub>
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Into%20the%20Odd%202nd%20edition"><img src="images/vignettes/ROLL20-intotheodd.webp" alt="Into the Odd — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Into the Odd · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Into%20the%20Odd%202nd%20edition">dépôt Roll20</a></sub>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Yradhil"><img src="images/vignettes/ROLL20-yradhil.webp" alt="Yradhil — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Yradhil · <a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e/Yradhil">GitHub</a></sub>
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Notre%20tombeau"><img src="images/vignettes/ROLL20-notretombeau.webp" alt="Notre Tombeau — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Notre Tombeau · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Notre%20tombeau">dépôt Roll20</a></sub>
+</td>
+
+<td width="50%" align="center">
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Patient13%20v1.5"><img src="images/vignettes/ROLL20-patient13.webp" alt="Patient 13 — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Patient 13 · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Patient13%20v1.5">dépôt Roll20</a></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Ten%20candles"><img src="images/vignettes/ROLL20-10candles.webp" alt="Ten Candles — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Ten Candles · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Ten%20candles">dépôt Roll20</a></sub>
+</td>
+
+<td width="50%" align="center">
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Thanatos"><img src="images/vignettes/ROLL20-thanatos.webp" alt="Thanatos — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Thanatos · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Thanatos">dépôt Roll20</a></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Chroniques_Katura"><img src="images/vignettes/ROLL20-yradhil.webp" alt="Yradhil — Roll20" width="100%"></a><br>
+<sub>Création Roll20 pour Yradhil · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Chroniques_Katura">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
@@ -170,9 +162,6 @@ L'objectif reste le même : proposer des outils agréables à utiliser, visuelle
 </tr>
 </table>
 
-<p align="center">
-<a href="https://github.com/ctotone/JdR/tree/main/%23Roll20%20valid%C3%A9e"><strong>→ Voir mes autres ressources Roll20</strong></a>
-</p>
 
 <br><br>
 
@@ -198,11 +187,9 @@ Je partage une partie de ces aventures en live et en vidéo, et le Discord sert 
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<a href="https://discord.gg/UAFqYhaSap"><img src="images/vignettes/DIVERS-discord.webp" alt="Communauté Discord Evilbram" width="100%"></a><br>
+<td colspan="2" align="center">
+<a href="https://discord.gg/UAFqYhaSap"><img src="images/vignettes/DIVERS-discord.webp" alt="Communauté Discord Evilbram" width="50%"></a><br>
 <sub>Communauté, parties, projets et échanges autour du JdR · <a href="https://discord.gg/UAFqYhaSap">Discord</a></sub>
 </td>
-
-<td width="50%"></td>
 </tr>
 </table>
