@@ -104,60 +104,60 @@ Je crée également des **fiches de personnage et interfaces personnalisées pou
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Cabinet%20des%20Murmures"><img src="images/vignettes/ROLL20-murmures.webp" alt="Cabinet des Murmures — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Cabinet des Murmures · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Cabinet%20des%20Murmures">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour les XII Singes · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Cabinet%20des%20Murmures">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dedales"><img src="images/vignettes/ROLL20-dedales.webp" alt="Dédales — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Dédales · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dedales">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour les XII Singes · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dedales">dépôt Roll20</a></sub>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dirty%20System"><img src="images/vignettes/ROLL20-dirtysystem.webp" alt="Dirty — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Dirty · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dirty%20System">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour DCC Label · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Dirty%20System">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Into%20the%20Odd%202nd%20edition"><img src="images/vignettes/ROLL20-intotheodd.webp" alt="Into the Odd — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Into the Odd · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Into%20the%20Odd%202nd%20edition">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour les XII Singes · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Into%20the%20Odd%202nd%20edition">dépôt Roll20</a></sub>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Notre%20tombeau"><img src="images/vignettes/ROLL20-notretombeau.webp" alt="Notre Tombeau — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Notre Tombeau · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Notre%20tombeau">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour John Doe Edition · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Notre%20tombeau">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Patient13%20v1.5"><img src="images/vignettes/ROLL20-patient13.webp" alt="Patient 13 — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Patient 13 · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Patient13%20v1.5">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour John Doe Edition · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Patient13%20v1.5">dépôt Roll20</a></sub>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Ten%20candles"><img src="images/vignettes/ROLL20-10candles.webp" alt="Ten Candles — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Ten Candles · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Ten%20candles">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour Cavalry Game · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Ten%20candles">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Thanatos"><img src="images/vignettes/ROLL20-thanatos.webp" alt="Thanatos — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Thanatos · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Thanatos">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour les XII Singes · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Thanatos">dépôt Roll20</a></sub>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Chroniques_Katura"><img src="images/vignettes/ROLL20-yradhil.webp" alt="Yradhil — Roll20" width="100%"></a><br>
-<sub>Création Roll20 pour Yradhil · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Chroniques_Katura">dépôt Roll20</a></sub>
+<sub>Création Roll20 pour Uther · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Chroniques_Katura">dépôt Roll20</a></sub>
 </td>
 
 <td width="50%" align="center">
 <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Obscuritas"><img src="images/vignettes/ROLL20-obscuritas.webp" alt="Obscuritas Æterna — Roll20" width="100%"></a><br>
-<sub>Feuille de personnage Roll20 pour Obscuritas Æterna · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Obscuritas">dépôt Roll20</a></sub>
+<sub>Feuille de personnage Roll20 pour Dakeyras · <a href="https://github.com/Roll20/roll20-character-sheets/tree/master/Obscuritas">dépôt Roll20</a></sub>
 </td>
 </tr>
 </table>
